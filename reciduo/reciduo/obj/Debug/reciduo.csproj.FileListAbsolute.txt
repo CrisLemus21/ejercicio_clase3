@@ -1,0 +1,7 @@
+C:\Users\domi2\source\repos\reciduo\reciduo\bin\Debug\reciduo.exe.config
+C:\Users\domi2\source\repos\reciduo\reciduo\bin\Debug\reciduo.exe
+C:\Users\domi2\source\repos\reciduo\reciduo\bin\Debug\reciduo.pdb
+C:\Users\domi2\source\repos\reciduo\reciduo\obj\Debug\reciduo.csproj.AssemblyReference.cache
+C:\Users\domi2\source\repos\reciduo\reciduo\obj\Debug\reciduo.csproj.CoreCompileInputs.cache
+C:\Users\domi2\source\repos\reciduo\reciduo\obj\Debug\reciduo.exe
+C:\Users\domi2\source\repos\reciduo\reciduo\obj\Debug\reciduo.pdb
